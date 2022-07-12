@@ -5,6 +5,8 @@ Wrapper for mhyprot2 vuln driver function to read / write memory, easy for begin
 
 And i use how memory.dll style for read and write.
 
+#Only Support x64
+
 Example :
 
 ```C#
